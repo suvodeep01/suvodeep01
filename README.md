@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suvodeep01
+- 👋 Hi, I’m Suvodeep Nayek
 - 👀 I’m interested in to bulid games and website
 - 🌱 I’m currently learning python, c++
 - 💞️ I’m looking to collaborate on pygame
