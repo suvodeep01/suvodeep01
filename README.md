@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Suvodeep Nayek
-- 👀 I’m interested in to bulid games and website
+- 👀 I’m Website Designer & Developer
 - 🌱 I’m currently learning python, c++
-- 💞️ I’m looking to collaborate on pygame
+- 💞️ I’m looking to collaborate on Web designing Technology
 - 📫 How to reach me - suvodeep443@gmail.com , This is my Email
 
 <!---
